@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552658673 source:c:\users\florian\documents\ludus\algo\f2\c\defi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
